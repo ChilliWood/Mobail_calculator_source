@@ -1,0 +1,26 @@
+{
+  "name": "kalkulator",
+  "version": "1.0.0",
+  "description": "This calculator is based on js, css and html There are bugs and not improvements. Created in order to convert into a mobile application. Will be finalized and improved # Cloning ``` git clone https://github.com/surkov222/Kalkulator_sours.git ```",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/surkov222/Kalkulator_sours.git"
+  },
+  "author": "ChillWood",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/surkov222/Kalkulator_sours/issues"
+  },
+  "homepage": "https://github.com/surkov222/Kalkulator_sours#readme",
+  "dependencies": {
+    "@capacitor/android": "^3.6.0",
+    "@capacitor/core": "^3.6.0"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^3.6.0"
+  }
+}
