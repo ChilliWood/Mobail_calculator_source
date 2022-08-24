@@ -80,7 +80,7 @@ document.querySelector('.buttons').onclick = (event) => {
      
      //если нажата кнопка +/-
      if (key === '+/-'){
-        console.table(a, b, sign);
+        sign = '-';
      }
 }
 
